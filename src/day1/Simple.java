@@ -6,7 +6,7 @@ public class Simple {
 
         String a = "10";
         String b = "10";
-        String c = a + " space " + b;
+        String c = a + " space" + b;
         System.out.println(c);
     }
 

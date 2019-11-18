@@ -1,4 +1,4 @@
-package D9REVIEW;
+package Day9_IfStatements;
 
 public class ifelsestatement0 {
     public static void main(String[] args) {

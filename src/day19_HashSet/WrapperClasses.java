@@ -19,6 +19,10 @@ public class WrapperClasses {
             Boolean c = new Boolean(true); // 7
             //byte
             Byte d = new Byte((byte) 1);
+        ///// these are pramater types on above////
+
+
+
         }
     }
 
